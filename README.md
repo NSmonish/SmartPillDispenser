@@ -37,7 +37,3 @@ or not using the presence of the tablet cup and water glass and is counted.
 2) Arduino IDE is used for major coding instructions
 with the coding part. Also I’ll be learning about using of RTC module. More on Fusion 360
 designing and assembling. Use of automated technology into day-to-day things.
-Timeline
-- 15/07: Completion of the designing part in Fusion 360
-- 20/07: Completion of electrical work necessary
-- 23/07: Final Project submission deadline
